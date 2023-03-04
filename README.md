@@ -62,7 +62,7 @@
 - 👨‍💻 All of my projects are available at [my github profile](https://github.com/HARISHKUMAR1112001?tab=repositories)
 - 💬 Ask me about **javascript, react, node, angular**
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/prajapati-harishkumar-kishorkumar-aa6100214/)**
-- 🌏 My Website **[click here to see the awesomeness](https://hpkportfolio.000webhostapp.com/)**
+- 🌏 My Website **[click here to see the awesomeness](https://harishkumar-portfolio.000webhostapp.com/)**
 - 📄 Know about my experiences [Beware! This will automatically download my resume in PDF](https://drive.google.com/file/d/1nWaY8HTGPN2jJ7EefEWai-trI6V9Op9l/view)
 - ⚡ Fun fact **... Evolving just confused!**
 
